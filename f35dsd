@@ -22,7 +22,8 @@
             /clearBufferfv is not a function/,
             /Failed to execute \'insertBefore\' on \'Node\'/,
             /Failed to execute \'removeChild\' on \'Node\'/,
-            /WebSocket/,
+            /WebSocket/,]
+
             /Failed to fetch dynamically imported module/,
             /Unable to preload CSS/
           ].some(i => i.test(event.message))
