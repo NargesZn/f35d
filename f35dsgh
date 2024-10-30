@@ -4,6 +4,8 @@
   <head>
     <script>
   try {
+
+
     window.__CARV_TRACE_ID__ = window.crypto.randomUUID()
     window.addEventListener('error', function (event) {
       try {
