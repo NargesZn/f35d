@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <script>
-  try {
+  try {[as]
 
 
     window.__CARV_TRACE_ID__ = window.crypto.randomUUID()
